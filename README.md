@@ -69,7 +69,7 @@ Division: 0.6
 Enter 2 numbers: 2 0
 Number cannot be 0: ERROR
 
-# EXPERIMENT NO: 1
+# EXPERIMENT NO: 2
 AIM: To print hello world 10 times using FOR loop
 Algorithm:
 
@@ -93,7 +93,7 @@ Hello World!!
 Hello World!!
 Hello World!!
 
-# EXPERIMENT NO: 2
+# EXPERIMENT NO: 3
 AIM: Print 1-50 using while loop
 Algorithm:
 
@@ -110,7 +110,7 @@ OUTPUT
 1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25
 26	27	28	29	30	31	32	33	34	35	36	37	38	39	40	41	42	43	44	45	46	47	48	49	50
 
-# EXPERIMENT NO: 3
+# EXPERIMENT NO: 4
 AIM: Print 1-50 using do-while loop
 Algorithm:
 
@@ -128,7 +128,7 @@ OUTPUT
 1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25
 26	27	28	29	30	31	32	33	34	35	36	37	38	39	40	41	42	43	44	45	46	47	48	49	50
 
-# EXPERIMENT NO: 4
+# EXPERIMENT NO: 5
 AIM: Reverse a string using loop
 Theory: We can find the lenght of the string using .lenght() function and can start the loop in the reverse direction.
 Algorithm:
@@ -148,7 +148,7 @@ OUTPUT
 Enter a string: Tarun
 nuraT
 
-# EXPERIMENT NO: 5
+# EXPERIMENT NO: 6
 AIM: To print number pyramid
 Theory: We can use nested loops concept. We can run outermost loop ROW times and 2 inner loops: One for blank and other for numbers,Print new line after every row
 Algorithm:
